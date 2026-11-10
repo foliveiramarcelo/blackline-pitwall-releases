@@ -1,0 +1,13 @@
+{
+  "version": "0.3.2",
+  "date": "2026-11-10",
+  "asar": "app-0.3.2.asar",
+  "size": 1272512,
+  "sha256": "66a3a818412b9fc0668de080b834df721bc191b2f9b0c454c8deef9422d11620",
+  "minElectron": "45.2.3",
+  "full": "BlacklinePitwall-0.3.2-Windows-x64.zip",
+  "notes": [
+    "Filtro por categoria na escolha do carro (Agenda e Engenharia).",
+    "Feedback interno: botão no menu lateral; lista e exportação em Ajustes > Feedback."
+  ]
+}
