@@ -1,12 +1,14 @@
 {
-  "version": "0.3.8",
+  "version": "0.3.9",
   "date": "2026-11-11",
-  "asar": "app-0.3.8.asar",
-  "size": 1535126,
-  "sha256": "838e76c87a2e204f42764172bb7545120db80167901f0acfe3eec538f444e13f",
+  "asar": "app-0.3.9.asar",
+  "size": 1602743,
+  "sha256": "7be642e760906bc418577dc351ac87a2c14ccbb3a8335855994f9ce193597873",
   "minElectron": "45.2.3",
-  "full": "BlacklinePitwall-0.3.8-Windows-x64.zip",
+  "full": "BlacklinePitwall-0.3.9-Windows-x64.zip",
   "notes": [
-    "Tela de entrada com a conta da equipe: o app só abre depois de entrar (primeiro acesso cria a senha)"
+    "Parecer do engenheiro virtual: o que a telemetria confirma ou não e resposta aos seus pedidos",
+    "Uma análise por texto, sem cobrança repetida; saiu o segundo botão",
+    "Visual mais leve; logo vetorial e ícone da janela nítidos"
   ]
 }
