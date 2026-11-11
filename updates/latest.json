@@ -1,13 +1,12 @@
 {
-  "version": "0.3.7",
+  "version": "0.3.8",
   "date": "2026-11-11",
-  "asar": "app-0.3.7.asar",
-  "size": 1527750,
-  "sha256": "4eff9c0c82d33a99fc6440f511aca72f0b81c9882136096ea04f76d78209049a",
+  "asar": "app-0.3.8.asar",
+  "size": 1535126,
+  "sha256": "838e76c87a2e204f42764172bb7545120db80167901f0acfe3eec538f444e13f",
   "minElectron": "45.2.3",
-  "full": "BlacklinePitwall-0.3.7-Windows-x64.zip",
+  "full": "BlacklinePitwall-0.3.8-Windows-x64.zip",
   "notes": [
-    "Conta da equipe por e-mail e senha; IA da equipe (Claude Sonnet 5.5) na conta do administrador",
-    "Área do administrador: uso da IA por mês, dia e piloto, teto e liberação de pilotos"
+    "Tela de entrada com a conta da equipe: o app só abre depois de entrar (primeiro acesso cria a senha)"
   ]
 }
