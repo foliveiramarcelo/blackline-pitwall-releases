@@ -1,14 +1,15 @@
 {
-  "version": "0.3.9",
+  "version": "0.4.0",
   "date": "2026-11-11",
-  "asar": "app-0.3.9.asar",
-  "size": 1602743,
-  "sha256": "7be642e760906bc418577dc351ac87a2c14ccbb3a8335855994f9ce193597873",
+  "asar": "app-0.4.0.asar",
+  "size": 1645886,
+  "sha256": "9566d3eb3dbdc838f26d14144c891f0e3c6ede3f9e15119d05daaeb3df000756",
   "minElectron": "45.2.3",
-  "full": "BlacklinePitwall-0.3.9-Windows-x64.zip",
+  "full": "BlacklinePitwall-0.4.0-Windows-x64.zip",
   "notes": [
-    "Parecer do engenheiro virtual: o que a telemetria confirma ou não e resposta aos seus pedidos",
-    "Uma análise por texto, sem cobrança repetida; saiu o segundo botão",
-    "Visual mais leve; logo vetorial e ícone da janela nítidos"
+    "Briefing no Pitwall: sessão, plano e setup do PMR confirmados antes de ir para a pista",
+    "Carregar setup no briefing: padrão do jogo ou qualquer setup salvo pela equipe",
+    "Recolher aos boxes fecha o stint na hora: debrief sem sair da sala do jogo",
+    "No fim da sessão, confirme o setup final e salve no banco de setups da equipe (página Setups)"
   ]
 }
