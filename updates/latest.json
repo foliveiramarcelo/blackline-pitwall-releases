@@ -1,15 +1,13 @@
 {
-  "version": "0.3.6",
+  "version": "0.3.7",
   "date": "2026-11-11",
-  "asar": "app-0.3.6.asar",
-  "size": 1503379,
-  "sha256": "6e56e730464b8d1dc86ab96c7ef84e3210d8708532dd38a316d99b676bf1e3cb",
+  "asar": "app-0.3.7.asar",
+  "size": 1527750,
+  "sha256": "4eff9c0c82d33a99fc6440f511aca72f0b81c9882136096ea04f76d78209049a",
   "minElectron": "45.2.3",
-  "full": "BlacklinePitwall-0.3.6-Windows-x64.zip",
+  "full": "BlacklinePitwall-0.3.7-Windows-x64.zip",
   "notes": [
-    "Engenheiro com IA (Claude): leitura das impressões do piloto com sintomas, curvas, intensidade e perguntas; teto de gasto mensal",
-    "Voltas de classificação e de corrida separadas na biblioteca e no Comparar",
-    "Referência do mundo real com voltas de corrida; o resumo compara corrida com corrida",
-    "Referência no jogo: melhores voltas da IA e dos adversários por pista, coletadas a cada sessão"
+    "Conta da equipe por e-mail e senha; IA da equipe (Claude Sonnet 5.5) na conta do administrador",
+    "Área do administrador: uso da IA por mês, dia e piloto, teto e liberação de pilotos"
   ]
 }
