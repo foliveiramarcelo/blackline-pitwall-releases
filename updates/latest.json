@@ -1,15 +1,16 @@
 {
-  "version": "0.3.4",
-  "date": "2026-11-10",
-  "asar": "app-0.3.4.asar",
-  "size": 1419612,
-  "sha256": "f4e23b543587e939674328773aebd56029f102c7737fa94569196bd9eebb76a9",
+  "version": "0.3.5",
+  "date": "2026-11-11",
+  "asar": "app-0.3.5.asar",
+  "size": 1473093,
+  "sha256": "c3af65f140bd468f42f6f1950a4472689890fd67836d397c9de7afeb0545226c",
   "minElectron": "45.2.3",
-  "full": "BlacklinePitwall-0.3.4-Windows-x64.zip",
+  "full": "BlacklinePitwall-0.3.5-Windows-x64.zip",
   "notes": [
-    "Cadastro do piloto (menu Piloto).",
-    "Melhor volta de cada piloto guardada com telemetria, por categoria, carro e pista.",
-    "Comparar: ranking da equipe, delta, velocidade, pedais, setores e mapa entre duas voltas; exportar/importar voltas.",
-    "Acabamento Premium, menu lateral reorganizado e status de conexão mais claro (0.3.3)."
+    "Resumo da sessão no topo do debrief: tempo em % da volta real de GT3 e x equipe, acertos, erros e próximos passos",
+    "Banco de melhores voltas reais de GT3 por pista (DTM, IMSA, GTWC, WEC e outros) no resumo e no Comparar",
+    "Registro de eletrônica na sessão (TC, ABS, BB, deploy, regen, diferenciais); BB detectado pela telemetria",
+    "Impressões do piloto no debrief (texto, ditado e áudio)",
+    "Orientação de treino na Agenda e aviso de pista cheia no Wi-Fi"
   ]
 }
