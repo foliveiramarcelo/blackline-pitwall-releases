@@ -1,15 +1,14 @@
 {
-  "version": "0.4.0",
+  "version": "0.4.1",
   "date": "2026-11-11",
-  "asar": "app-0.4.0.asar",
-  "size": 1645886,
-  "sha256": "9566d3eb3dbdc838f26d14144c891f0e3c6ede3f9e15119d05daaeb3df000756",
+  "asar": "app-0.4.1.asar",
+  "size": 1663679,
+  "sha256": "e0820773bdc251aa87da200f81124eadcb19e3cc0ed3ee223563c59b5b70becb",
   "minElectron": "45.2.3",
-  "full": "BlacklinePitwall-0.4.0-Windows-x64.zip",
+  "full": "BlacklinePitwall-0.4.1-Windows-x64.zip",
   "notes": [
-    "Briefing no Pitwall: sessão, plano e setup do PMR confirmados antes de ir para a pista",
-    "Carregar setup no briefing: padrão do jogo ou qualquer setup salvo pela equipe",
-    "Recolher aos boxes fecha o stint na hora: debrief sem sair da sala do jogo",
-    "No fim da sessão, confirme o setup final e salve no banco de setups da equipe (página Setups)"
+    "Ficha de setup no arranjo da tela do PMR, com dianteira e traseira separadas",
+    "Altura, mola e cáster mudam a cambagem e a convergência exibidas, como no jogo",
+    "Banco de setups: visualizar e editar os seus setups"
   ]
 }
