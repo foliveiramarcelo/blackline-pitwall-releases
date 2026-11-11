@@ -1,16 +1,15 @@
 {
-  "version": "0.3.5",
+  "version": "0.3.6",
   "date": "2026-11-11",
-  "asar": "app-0.3.5.asar",
-  "size": 1473093,
-  "sha256": "c3af65f140bd468f42f6f1950a4472689890fd67836d397c9de7afeb0545226c",
+  "asar": "app-0.3.6.asar",
+  "size": 1503379,
+  "sha256": "6e56e730464b8d1dc86ab96c7ef84e3210d8708532dd38a316d99b676bf1e3cb",
   "minElectron": "45.2.3",
-  "full": "BlacklinePitwall-0.3.5-Windows-x64.zip",
+  "full": "BlacklinePitwall-0.3.6-Windows-x64.zip",
   "notes": [
-    "Resumo da sessão no topo do debrief: tempo em % da volta real de GT3 e x equipe, acertos, erros e próximos passos",
-    "Banco de melhores voltas reais de GT3 por pista (DTM, IMSA, GTWC, WEC e outros) no resumo e no Comparar",
-    "Registro de eletrônica na sessão (TC, ABS, BB, deploy, regen, diferenciais); BB detectado pela telemetria",
-    "Impressões do piloto no debrief (texto, ditado e áudio)",
-    "Orientação de treino na Agenda e aviso de pista cheia no Wi-Fi"
+    "Engenheiro com IA (Claude): leitura das impressões do piloto com sintomas, curvas, intensidade e perguntas; teto de gasto mensal",
+    "Voltas de classificação e de corrida separadas na biblioteca e no Comparar",
+    "Referência do mundo real com voltas de corrida; o resumo compara corrida com corrida",
+    "Referência no jogo: melhores voltas da IA e dos adversários por pista, coletadas a cada sessão"
   ]
 }
