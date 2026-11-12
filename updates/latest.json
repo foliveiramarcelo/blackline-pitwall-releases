@@ -1,13 +1,14 @@
 {
-  "version": "0.4.2",
+  "version": "0.4.3",
   "date": "2026-11-12",
-  "asar": "app-0.4.2.asar",
-  "size": 1670680,
-  "sha256": "2a1401056c70528843a3b83ce64915c8b7d16a3c6ecda94a7aab61a3528465af",
+  "asar": "app-0.4.3.asar",
+  "size": 1713289,
+  "sha256": "3e50194210a5a44af29b508d9b7d7214537da7f2d3a4fb3fc2bede98d1d2b791",
   "minElectron": "45.2.3",
-  "full": "BlacklinePitwall-0.4.2-Windows-x64.zip",
+  "full": "BlacklinePitwall-0.4.3-Windows-x64.zip",
   "notes": [
-    "Pedidos de acesso: quem cria senha sem estar liberado envia um pedido",
-    "Menu Cadastros para o administrador aprovar ou recusar os pedidos"
+    "Aba Rivais no debrief: compare suas voltas com o líder da sessão (e mais até 2 pilotos) e veja o que ajustar",
+    "Estratégia no briefing: combustível da corrida pelo consumo das sessões anteriores",
+    "Agenda com Treino livre, Treino de classificação, Simulação de corrida e Sessão oficial; em sessão oficial o debrief mostra só os pontos críticos"
   ]
 }
