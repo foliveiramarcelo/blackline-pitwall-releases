@@ -1,14 +1,13 @@
 {
-  "version": "0.4.1",
-  "date": "2026-11-11",
-  "asar": "app-0.4.1.asar",
-  "size": 1663679,
-  "sha256": "e0820773bdc251aa87da200f81124eadcb19e3cc0ed3ee223563c59b5b70becb",
+  "version": "0.4.2",
+  "date": "2026-11-12",
+  "asar": "app-0.4.2.asar",
+  "size": 1670680,
+  "sha256": "2a1401056c70528843a3b83ce64915c8b7d16a3c6ecda94a7aab61a3528465af",
   "minElectron": "45.2.3",
-  "full": "BlacklinePitwall-0.4.1-Windows-x64.zip",
+  "full": "BlacklinePitwall-0.4.2-Windows-x64.zip",
   "notes": [
-    "Ficha de setup no arranjo da tela do PMR, com dianteira e traseira separadas",
-    "Altura, mola e cáster mudam a cambagem e a convergência exibidas, como no jogo",
-    "Banco de setups: visualizar e editar os seus setups"
+    "Pedidos de acesso: quem cria senha sem estar liberado envia um pedido",
+    "Menu Cadastros para o administrador aprovar ou recusar os pedidos"
   ]
 }
