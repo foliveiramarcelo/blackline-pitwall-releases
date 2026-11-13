@@ -1,14 +1,16 @@
 {
-  "version": "0.5.0",
+  "version": "0.5.1",
   "date": "2026-11-13",
-  "asar": "app-0.5.0.asar",
-  "size": 1871708,
-  "sha256": "9daf61dc4f1a0cc40675584fbb5a06d823afe1d0d6bfc2885fd8ec53a92bb12d",
+  "asar": "app-0.5.1.asar",
+  "size": 1904958,
+  "sha256": "ce8d5de47aca163e6154a7b3b011a3fff2ecd73883dc47b6baec327888dcc7ce",
   "minElectron": "45.2.3",
-  "full": "BlacklinePitwall-0.5.0-Windows-x64.zip",
+  "full": "BlacklinePitwall-0.5.1-Windows-x64.zip",
   "notes": [
-    "Visual novo: menu no topo, no estilo de transmissão de corrida",
-    "Fonte Saira como padrão (as outras continuam em Ajustes › Aparência)",
-    "Painéis mais escuros e com cantos retos"
+    "Engenheiro novo: leitura física do carro (peso, transferência de carga, aerodinâmica, pneus, ABS e TC) e mudanças por meta, uma de cada vez",
+    "Aba Engenharia no debrief e leitura do último treino no briefing",
+    "TC, ABS e balanço de freio lidos sozinhos da telemetria (sem campo manual)",
+    "Passos corrigidos das barras e cliques proporcionais ao ajuste",
+    "Detecção de corte de pista: área pintada depois da zebra conta como zebra"
   ]
 }
