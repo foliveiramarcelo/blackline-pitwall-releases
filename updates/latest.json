@@ -1,12 +1,12 @@
 {
-  "version": "0.5.8",
+  "version": "0.5.9",
   "date": "2026-11-13",
-  "asar": "app-0.5.8.asar",
-  "size": 1941128,
-  "sha256": "880ea3ec3f019a239502833ff5648202778da36abb482237cb0085363d3b8037",
+  "asar": "app-0.5.9.asar",
+  "size": 1942521,
+  "sha256": "8d1663cc622aac656ab95047db21118a4a99f0331c187064b226858da9a119b6",
   "minElectron": "45.2.3",
-  "full": "BlacklinePitwall-0.5.8-Windows-x64.zip",
+  "full": "BlacklinePitwall-0.5.9-Windows-x64.zip",
   "notes": [
-    "0.5.8: salvar setup com nome no banco, banco com pista/carro/autor/data (exclusão só do autor), carregar setup do banco no treino da agenda, iniciar treino da agenda pela home"
+    "0.5.9: salvar o setup com nome no banco direto no briefing, antes de iniciar a sessão"
   ]
 }
