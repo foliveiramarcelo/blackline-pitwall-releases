@@ -1,14 +1,14 @@
 {
-  "version": "0.4.3",
-  "date": "2026-11-12",
-  "asar": "app-0.4.3.asar",
-  "size": 1713289,
-  "sha256": "3e50194210a5a44af29b508d9b7d7214537da7f2d3a4fb3fc2bede98d1d2b791",
+  "version": "0.4.4",
+  "date": "2026-11-13",
+  "asar": "app-0.4.4.asar",
+  "size": 1768696,
+  "sha256": "c9a4bf028e74cd8c5e301138d183fd2be184b49d3ed1ce1f20229458b8dec823",
   "minElectron": "45.2.3",
-  "full": "BlacklinePitwall-0.4.3-Windows-x64.zip",
+  "full": "BlacklinePitwall-0.4.4-Windows-x64.zip",
   "notes": [
-    "Aba Rivais no debrief: compare suas voltas com o líder da sessão (e mais até 2 pilotos) e veja o que ajustar",
-    "Estratégia no briefing: combustível da corrida pelo consumo das sessões anteriores",
-    "Agenda com Treino livre, Treino de classificação, Simulação de corrida e Sessão oficial; em sessão oficial o debrief mostra só os pontos críticos"
+    "Sugestão de setup por pista no briefing, a partir do padrão do jogo",
+    "Guia de setup: base de conhecimento de engenharia com busca; clique no nome de um campo da ficha para ver o que ele faz",
+    "Sem avisos do engenheiro durante a sessão: tabela de voltas no lugar do rádio; o retorno fica no debrief"
   ]
 }
