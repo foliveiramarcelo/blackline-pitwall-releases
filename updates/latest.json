@@ -1,12 +1,12 @@
 {
-  "version": "0.5.2",
+  "version": "0.5.3",
   "date": "2026-11-13",
-  "asar": "app-0.5.2.asar",
-  "size": 1917336,
-  "sha256": "e69baf75792122a0266cdf831ef51781bc3b42d183bdc9322105528b38dc3b50",
+  "asar": "app-0.5.3.asar",
+  "size": 1928309,
+  "sha256": "f95f9fd87028d124ff8a1692496c09eebccbca1a64beb96a18cc5229a0230313",
   "minElectron": "45.2.3",
-  "full": "BlacklinePitwall-0.5.2-Windows-x64.zip",
+  "full": "BlacklinePitwall-0.5.3-Windows-x64.zip",
   "notes": [
-    "0.5.2: leitura de ARB pela telemetria, ajustes sempre em valores, barra de título integrada, teste de setup no planejamento, corrida sem encerrar a medição no box"
+    "0.5.3: aba Linhas e mapa no debrief (acelerador, freio e velocidade volta a volta, traçado no mapa e comparação com a melhor volta)"
   ]
 }
