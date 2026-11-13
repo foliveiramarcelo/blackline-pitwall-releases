@@ -1,12 +1,12 @@
 {
-  "version": "0.5.6",
+  "version": "0.5.7",
   "date": "2026-11-13",
-  "asar": "app-0.5.6.asar",
-  "size": 1933650,
-  "sha256": "ce0c8e0d5be6e907363a6ea5e20d74585bc5128e7bc56e475c084ec3bc6d3f4a",
+  "asar": "app-0.5.7.asar",
+  "size": 1934254,
+  "sha256": "40007a8470ce63e78d272bb12034f98c06f40466cc4657ed414cc385bbc0006f",
   "minElectron": "45.2.3",
-  "full": "BlacklinePitwall-0.5.6-Windows-x64.zip",
+  "full": "BlacklinePitwall-0.5.7-Windows-x64.zip",
   "notes": [
-    "0.5.6: treino livre contínuo (a ida ao box não encerra a sessão; cada saída vira um stint), velocidade corrigida na aba Linhas e mapa"
+    "0.5.7: treinos novos aparecem em Próximos treinos na home mesmo com sessão gravada no mesmo dia"
   ]
 }
