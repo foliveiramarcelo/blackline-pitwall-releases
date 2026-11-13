@@ -1,12 +1,12 @@
 {
-  "version": "0.5.4",
+  "version": "0.5.5",
   "date": "2026-11-13",
-  "asar": "app-0.5.4.asar",
-  "size": 1932835,
-  "sha256": "c78e2a96e64a54580bbf7bd807661b798cc34e807a5833522a7605f86c707635",
+  "asar": "app-0.5.5.asar",
+  "size": 1933620,
+  "sha256": "08ee9ebd18e3f558734a7707dea3ec2ef42dbb0af3dff4b90bf0c74df0c9d505",
   "minElectron": "45.2.3",
-  "full": "BlacklinePitwall-0.5.4-Windows-x64.zip",
+  "full": "BlacklinePitwall-0.5.5-Windows-x64.zip",
   "notes": [
-    "0.5.4: aba Relatório no debrief (resumo da sessão em tela, leitura do engenheiro, ajustes lidos da telemetria)"
+    "0.5.5: stints da corrida no relatório (separados pelas entradas no box)"
   ]
 }
