@@ -1,12 +1,12 @@
 {
-  "version": "0.5.5",
+  "version": "0.5.6",
   "date": "2026-11-13",
-  "asar": "app-0.5.5.asar",
-  "size": 1933620,
-  "sha256": "08ee9ebd18e3f558734a7707dea3ec2ef42dbb0af3dff4b90bf0c74df0c9d505",
+  "asar": "app-0.5.6.asar",
+  "size": 1933650,
+  "sha256": "ce0c8e0d5be6e907363a6ea5e20d74585bc5128e7bc56e475c084ec3bc6d3f4a",
   "minElectron": "45.2.3",
-  "full": "BlacklinePitwall-0.5.5-Windows-x64.zip",
+  "full": "BlacklinePitwall-0.5.6-Windows-x64.zip",
   "notes": [
-    "0.5.5: stints da corrida no relatório (separados pelas entradas no box)"
+    "0.5.6: treino livre contínuo (a ida ao box não encerra a sessão; cada saída vira um stint), velocidade corrigida na aba Linhas e mapa"
   ]
 }
