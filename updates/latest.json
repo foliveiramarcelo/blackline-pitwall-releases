@@ -1,12 +1,12 @@
 {
-  "version": "0.6.0",
-  "date": "2026-11-15",
-  "asar": "app-0.6.0.asar",
-  "size": 1944623,
-  "sha256": "f08568bd4a7147da62346d358d2f9707c56e1faa0cde40ef121647032d1ef662",
+  "version": "0.6.1",
+  "date": "2026-11-16",
+  "asar": "app-0.6.1.asar",
+  "size": 1981818,
+  "sha256": "49dc9a63f64c86b29fb86e374cb158931a36d5590f4b4a8f6f7cdffb6da5c7f4",
   "minElectron": "45.2.3",
-  "full": "BlacklinePitwall-0.6.0-Windows-x64.zip",
+  "full": "BlacklinePitwall-0.6.1-Windows-x64.zip",
   "notes": [
-    "0.6.0: debrief na hora ao parar no box (sessão continua), ver por stint no debrief"
+    "0.6.1: briefing com introdução à pista e avanço por telas; debrief por stint (resumo, indicadores traduzidos, trechos, ajustes para confirmar); setup por stint e sugestão do melhor stint; plano de simulação de corrida; pista e pneus ao longo da sessão"
   ]
 }
