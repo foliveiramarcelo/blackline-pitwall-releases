@@ -1,12 +1,12 @@
 {
-  "version": "0.6.1",
-  "date": "2026-11-16",
-  "asar": "app-0.6.1.asar",
-  "size": 1981818,
-  "sha256": "49dc9a63f64c86b29fb86e374cb158931a36d5590f4b4a8f6f7cdffb6da5c7f4",
+  "version": "0.6.2",
+  "date": "2026-11-17",
+  "asar": "app-0.6.2.asar",
+  "size": 2002960,
+  "sha256": "fc5b15effb5489a9c4bc6619152251c9414df3595f4b6bddd54a0174f76620aa",
   "minElectron": "45.2.3",
-  "full": "BlacklinePitwall-0.6.1-Windows-x64.zip",
+  "full": "BlacklinePitwall-0.6.2-Windows-x64.zip",
   "notes": [
-    "0.6.1: briefing com introdução à pista e avanço por telas; debrief por stint (resumo, indicadores traduzidos, trechos, ajustes para confirmar); setup por stint e sugestão do melhor stint; plano de simulação de corrida; pista e pneus ao longo da sessão"
+    "0.6.2: linguagem simples nas recomendações e conclusões: resumo do carro por fase da curva, o que você deve sentir e como saber se funcionou em cada sugestão; sugestões partem do que o carro informa (balanço de freio lido da telemetria) e não contradizem o uso real dos pneus; força do ar e alturas recalculadas; temperatura de ar e pista pela mediana da sessão; novos canais gravados (forças dos pneus, curso de suspensão, escorregamento da traseira, torque por roda), com leituras marcadas como estimativa"
   ]
 }
