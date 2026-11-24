@@ -1,12 +1,14 @@
 {
-  "version": "0.6.2",
-  "date": "2026-11-17",
-  "asar": "app-0.6.2.asar",
-  "size": 2002960,
-  "sha256": "fc5b15effb5489a9c4bc6619152251c9414df3595f4b6bddd54a0174f76620aa",
+  "version": "0.6.3",
+  "date": "2026-11-24",
+  "asar": "app-0.6.3.asar",
+  "size": 2009906,
+  "sha256": "82ee133a6c63db66a0229732b1256dda08d7d089d864c606a99ea55d16676498",
   "minElectron": "45.2.3",
-  "full": "BlacklinePitwall-0.6.2-Windows-x64.zip",
+  "full": "BlacklinePitwall-0.6.3-Windows-x64.zip",
   "notes": [
-    "0.6.2: linguagem simples nas recomendações e conclusões: resumo do carro por fase da curva, o que você deve sentir e como saber se funcionou em cada sugestão; sugestões partem do que o carro informa (balanço de freio lido da telemetria) e não contradizem o uso real dos pneus; força do ar e alturas recalculadas; temperatura de ar e pista pela mediana da sessão; novos canais gravados (forças dos pneus, curso de suspensão, escorregamento da traseira, torque por roda), com leituras marcadas como estimativa"
+    "Condição da pista (seca, úmida ou molhada): informe na barra superior antes de entrar na pista ou corrija no debrief e na lista de sessões",
+    "Na chuva, o engenheiro não compara com o seco: sem veredito de pneu frio ou quente, sem alvo de pressão de seco e com aviso nas sessões de chuva",
+    "Aviso no debrief quando a pista estava na temperatura do ar e a condição não foi informada"
   ]
 }
